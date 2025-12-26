@@ -1,7 +1,7 @@
 
 # UFC FightIQ: Machine Learning Predictive Engine
 
-### [Live Demo Link Here] | [Portfolio Link]
+### [[Live Demo](https://fightiq.streamlit.app/)] | [[Portfolio](https://zvezda4994.github.io/)]
 
 **FightIQ** is a full-stack data science application that predicts the outcomes of UFC fights using historical data and machine learning. It implements a basic ELO rating engine and uses Random Forest classification to take into account "intangible" factors like ring rust, momentum, and strength of schedule.
 
@@ -100,7 +100,7 @@ streamlit run app.py
 
 **Aditya Singh**
 
-* [LinkedIn](Your LinkedIn URL)
-* [GitHub](Your GitHub URL)
+* [[LinkedIn](https://www.linkedin.com/in/aditya-singh-642449253/)]
+* [[GitHub](https://github.com/Zvezda4994)]
 
 
